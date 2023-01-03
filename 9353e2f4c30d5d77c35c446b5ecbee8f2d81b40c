@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d628095c_421d0c08",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000125
+      },
+      "writtenOn": "2023-01-03T02:06:36Z",
+      "side": 1,
+      "message": "Actually I think it\u0027s better to just track this repo from LOS",
+      "revId": "9353e2f4c30d5d77c35c446b5ecbee8f2d81b40c",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    }
+  ]
+}
